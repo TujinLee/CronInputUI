@@ -11,3 +11,4 @@ dist/
 # File systems
 .DS_Store
 Thumbs.db
+.history
